@@ -6,4 +6,6 @@ We build an app to predict the probability of heart disease in a given individua
 
 The shiny link: https://chengyuchen.shinyapps.io/Team3Project/
 
+YouTube : https://www.youtube.com/watch?v=bvZbR4dr_as
+
 Shiny Template referenced from: https://mogali.shinyapps.io/attritionanalysis/
